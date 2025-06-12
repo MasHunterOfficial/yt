@@ -1,5 +1,4 @@
 
-```markdown
 # 🎥 YouTube Downloader Tool (yt.py)
 
 A powerful, interactive, terminal-based YouTube downloader tool built with Python. Supports downloading videos, audios, descriptions, comments, and titles — either individually or in batch. It provides total control over the format and destination of downloads, including optional saving to SD card (Android Termux support).
