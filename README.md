@@ -135,5 +135,3 @@ This project is open-source under the [MIT License](LICENSE).
 Developed by [MasHunterOfficial](https://github.com/MasHunterOfficial)
 👉 Feel free to star ⭐ the repository if you find it useful!
 
-```
-
